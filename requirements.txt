@@ -1,0 +1,20 @@
+
+# Data manipulation
+pandas
+numpy
+pyarrow
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Development
+jupyter
+ipykernel
+
+# Kaggle API
+kaggle
